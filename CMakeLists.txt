@@ -4,13 +4,12 @@ project(kmenuedit)
 set(PROJECT_VERSION "6.7.5")
 
 set(QT_MIN_VERSION "6.10.0")
-set(KF6_MIN_VERSION "6.26.0")
-set(KDE_COMPILERSETTINGS_LEVEL "5.82")
+set(KF6_MIN_VERSION "6.30.0")
+set(KDE_COMPILERSETTINGS_LEVEL "6.13")
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
-set(KDE_COMPILERSETTINGS_LEVEL "6.13")
 
 find_package(ECM ${KF6_MIN_VERSION} REQUIRED NO_MODULE)
 set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} )
@@ -63,7 +62,7 @@ ecm_set_disabled_deprecation_versions(QT 6.10
 
 add_definitions(-DQT_NO_CAST_FROM_ASCII -DQT_NO_CAST_FROM_BYTEARRAY)
 add_definitions(-DTRANSLATION_DOMAIN=\"kmenuedit\")
-add_subdirectory( pixmaps ) 
+add_subdirectory( pixmaps )
 
 set(kmenueditcommon_STAT_SRCS basictab.cpp
     kmenuedit.qrc

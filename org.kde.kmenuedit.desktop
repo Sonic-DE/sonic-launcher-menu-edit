@@ -4,7 +4,7 @@ Icon=kmenuedit
 X-DocPath=kmenuedit/index.html
 Type=Application
 StartupNotify=true
-OnlyShowIn=KDE;
+OnlyShowIn=SonicDE;
 
 Name=Menu Editor
 Name[af]=Kieslys Redigeerder

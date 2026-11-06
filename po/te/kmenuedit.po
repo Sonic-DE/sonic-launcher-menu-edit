@@ -293,12 +293,12 @@ msgstr ""
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
 msgid "SonicDE Menu Editor"
-msgstr ""
+msgstr "SonicDE పట్టి ఎడిటర్"
 
 #: main.cpp:41
 #, kde-format
 msgid "SonicDE menu editor"
-msgstr ""
+msgstr "SonicDE పట్టి ఎడిటర్"
 
 #: main.cpp:43
 #, kde-format

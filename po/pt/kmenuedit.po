@@ -101,8 +101,8 @@ msgstr "Activar o aviso de &execução"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Só mostrar quando autenticado numa sessão do Plasma"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Só mostrar quando autenticado numa sessão do SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -313,13 +313,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Editor de Menus do KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Editor de Menus do SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Editor de menus do KDE"
+msgid "SonicDE menu editor"
+msgstr "Editor de menus do SonicDE"
 
 #: main.cpp:43
 #, kde-format

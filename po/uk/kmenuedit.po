@@ -102,8 +102,8 @@ msgstr "Ввімкнути зворотній зв'язок &запуску"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Показувати, лише якщо працюємо у сеансі Плазми"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Показувати, лише якщо працюємо у сеансі SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -312,13 +312,13 @@ msgstr "Панель інструментів кнопки меню"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Редактор меню KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Редактор меню SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Редактор меню KDE"
+msgid "SonicDE menu editor"
+msgstr "Редактор меню SonicDE"
 
 #: main.cpp:43
 #, kde-format

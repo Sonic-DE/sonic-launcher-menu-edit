@@ -98,8 +98,8 @@ msgstr "&தொடக்கும்போது பின்னூட்டம�
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "பிளாஸ்மா அமர்வில் இருக்கும்போது மட்டும் காட்டு"
+msgid "Only show when logged into a SonicDE session"
+msgstr "SonicDE அமர்வில் இருக்கும்போது மட்டும் காட்டு"
 
 #: basictab.cpp:117
 #, kde-format
@@ -306,13 +306,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "கே.டீ.யீ. பட்டி திருத்தி"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE பட்டி திருத்தி"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "கே.டீ.யீ. பட்டி திருத்தி"
+msgid "SonicDE menu editor"
+msgstr "SonicDE பட்டி திருத்தி"
 
 #: main.cpp:43
 #, kde-format

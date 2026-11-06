@@ -100,8 +100,8 @@ msgstr "Įjungti grįžtamąjį &paleidimo ryšį"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Rodyti tik prisijungus prie Plasma seanso"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Rodyti tik prisijungus prie SonicDE seanso"
 
 #: basictab.cpp:117
 #, kde-format
@@ -308,13 +308,13 @@ msgstr "Trijų juostų meniu įrankių juosta"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE meniu redaktorius"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE meniu redaktorius"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE meniu redaktorius"
+msgid "SonicDE menu editor"
+msgstr "SonicDE meniu redaktorius"
 
 #: main.cpp:43
 #, kde-format

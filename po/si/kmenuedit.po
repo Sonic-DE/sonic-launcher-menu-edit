@@ -96,7 +96,7 @@ msgstr "ප්‍රතිචාර ක්‍රියාත්මක වීම 
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
+msgid "Only show when logged into a SonicDE session"
 msgstr ""
 
 #: basictab.cpp:117
@@ -308,13 +308,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE මෙනු සකසනය"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE මෙනු සකසනය"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE මෙනු සකසනය"
+msgid "SonicDE menu editor"
+msgstr "SonicDE මෙනු සකසනය"
 
 #: main.cpp:43
 #, kde-format

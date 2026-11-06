@@ -100,8 +100,8 @@ msgstr "Ebligi &lanĉan indikilon"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Nur montri kiam ensalutita al Plasma-seanco"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Nur montri kiam ensalutita al SonicDE-seanco"
 
 #: basictab.cpp:117
 #, kde-format
@@ -309,13 +309,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDEa menuredaktilo"
+msgid "SonicDE Menu Editor"
+msgstr "Menuredaktilo de SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDEa menuredaktilo"
+msgid "SonicDE menu editor"
+msgstr "Menuredaktilo de SonicDE"
 
 #: main.cpp:43
 #, kde-format

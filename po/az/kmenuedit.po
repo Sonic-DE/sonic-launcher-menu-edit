@@ -101,8 +101,8 @@ msgstr "Baş&latma rəyini aktiv edin"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Yalnız Plasma sessiyasına giriş zamanı göstərilsin"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Yalnız SonicDE sessiyasına giriş zamanı göstərilsin"
 
 #: basictab.cpp:117
 #, kde-format
@@ -313,13 +313,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE menyu redaktoru"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE menyu redaktoru"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE menyu redaktoru"
+msgid "SonicDE menu editor"
+msgstr "SonicDE menyu redaktoru"
 
 #: main.cpp:43
 #, kde-format

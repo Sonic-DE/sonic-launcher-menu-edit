@@ -104,8 +104,8 @@ msgstr "P&ovoliť odozvu pri spustení"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Zobrazovať iba pri prihlásení do Plasma sedenia"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Zobrazovať iba pri prihlásení do SonicDE sedenia"
 
 #: basictab.cpp:117
 #, kde-format
@@ -312,13 +312,13 @@ msgstr "Panel nástrojov hamburgerového menu"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE Editor menu"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE Editor menu"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE Editor menu"
+msgid "SonicDE menu editor"
+msgstr "SonicDE Editor menu"
 
 #: main.cpp:43
 #, kde-format

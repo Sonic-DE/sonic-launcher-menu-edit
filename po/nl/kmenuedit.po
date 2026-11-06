@@ -111,8 +111,8 @@ msgstr "Opstartnotificatie activ&eren"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Alleen tonen wanneer aangemeld in een Plasma-sessie"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Alleen tonen wanneer aangemeld in een SonicDE-sessie"
 
 #: basictab.cpp:117
 #, kde-format
@@ -321,13 +321,13 @@ msgstr "Werkbalk van hamburgermenu"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE Menubewerker"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE Menubewerker"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE Menubewerker"
+msgid "SonicDE menu editor"
+msgstr "SonicDE Menubewerker"
 
 #: main.cpp:43
 #, kde-format

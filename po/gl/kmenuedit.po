@@ -103,8 +103,8 @@ msgstr "Activar o &aviso de inicio"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Amosar só nas sesións de Plasma"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Amosar só nas sesións de SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -313,13 +313,13 @@ msgstr "Barra de ferramentas do menú de hamburguesa"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Editor do menú de KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Editor do menú de SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Editor do menú de KDE"
+msgid "SonicDE menu editor"
+msgstr "Editor do menú de SonicDE"
 
 #: main.cpp:43
 #, kde-format

@@ -99,8 +99,8 @@ msgstr "Aktivér &opstartsfeedback"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Vis kun når man er logget ind i en Plasma-session"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Vis kun når man er logget ind i en SonicDE-session"
 
 #: basictab.cpp:117
 #, kde-format
@@ -311,13 +311,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE Menueditor"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE Menueditor"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE Menuredigering"
+msgid "SonicDE menu editor"
+msgstr "SonicDE Menuredigering"
 
 #: main.cpp:43
 #, kde-format

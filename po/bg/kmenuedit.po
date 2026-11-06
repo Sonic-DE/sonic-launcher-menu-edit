@@ -97,8 +97,8 @@ msgstr "О&братна връзка"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Показване само след влизане в сесия на Plasma"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Показване само след влизане в сесия на SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -307,13 +307,13 @@ msgstr "Лента с инструменти на менюто"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Редактор на главното меню"
+msgid "SonicDE Menu Editor"
+msgstr "Редактор на главното меню на SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Редактор на системното меню"
+msgid "SonicDE menu editor"
+msgstr "Редактор на системното меню на SonicDE"
 
 #: main.cpp:43
 #, kde-format

@@ -106,8 +106,8 @@ msgstr "הפעלת משוב לה&פעלה"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "מוצג רק בתוך הפעלה של פלזמה"
+msgid "Only show when logged into a SonicDE session"
+msgstr "מוצג רק בתוך הפעלה של SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -315,13 +315,13 @@ msgstr "סרגל כלים תפריט המבורגר"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "עורך התפריטים של KDE"
+msgid "SonicDE Menu Editor"
+msgstr "עורך התפריטים של SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "עורך התפריטים של KDE"
+msgid "SonicDE menu editor"
+msgstr "עורך התפריטים של SonicDE"
 
 #: main.cpp:43
 #, kde-format

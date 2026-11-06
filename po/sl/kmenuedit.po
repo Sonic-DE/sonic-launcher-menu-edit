@@ -107,8 +107,8 @@ msgstr "Omogoči odziv zagona"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Prikaži samo, kadar si prijavljen v sejo Plasme"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Prikaži samo, kadar si prijavljen v sejo SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -317,13 +317,13 @@ msgstr "Orodna vrstica Hamburger menija"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Urejevalnik menijev KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Urejevalnik menijev SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Urejevalnik menijev KDE"
+msgid "SonicDE menu editor"
+msgstr "Urejevalnik menijev SonicDE"
 
 #: main.cpp:43
 #, kde-format

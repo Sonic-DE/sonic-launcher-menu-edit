@@ -99,8 +99,8 @@ msgstr "Enable &launch feedback"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Only show when logged into a Plasma session"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Only show when logged into a SonicDE session"
 
 #: basictab.cpp:117
 #, kde-format
@@ -307,13 +307,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE Menu Editor"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE Menu Editor"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE menu editor"
+msgid "SonicDE menu editor"
+msgstr "SonicDE menu editor"
 
 #: main.cpp:43
 #, kde-format

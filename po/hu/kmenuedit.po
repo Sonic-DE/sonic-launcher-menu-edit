@@ -97,8 +97,8 @@ msgstr "Az indítási visszajel&zés bekapcsolása"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Megjelenítés csak akkor, ha bejelentkezett a Plasma munkamenetbe"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Megjelenítés csak akkor, ha bejelentkezett a SonicDE munkamenetbe"
 
 #: basictab.cpp:117
 #, kde-format
@@ -305,13 +305,13 @@ msgstr "Hamburger menü eszköztár"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE menüszerkesztő"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE menüszerkesztő"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE menüszerkesztő"
+msgid "SonicDE menu editor"
+msgstr "SonicDE menüszerkesztő"
 
 #: main.cpp:43
 #, kde-format

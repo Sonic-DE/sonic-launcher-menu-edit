@@ -102,8 +102,8 @@ msgstr "Ieslēgt pa&laišanas informāciju"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Rādīt tikai pēc ierakstīšanās „Plasma“ sesijā"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Rādīt tikai pēc ierakstīšanās „SonicDE“ sesijā"
 
 #: basictab.cpp:117
 #, kde-format
@@ -312,13 +312,13 @@ msgstr "Hamburgera izvēlnes rīkjosla"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE izvēlnes redaktors"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE izvēlnes redaktors"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE izvēlnes redaktors"
+msgid "SonicDE menu editor"
+msgstr "SonicDE izvēlnes redaktors"
 
 #: main.cpp:43
 #, kde-format

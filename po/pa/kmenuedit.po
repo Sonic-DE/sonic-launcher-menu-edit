@@ -100,7 +100,7 @@ msgstr "ਸੁਝਾਅ ਚੱਲਣਾ ਯੋਗ ਕਰੋ(&l)"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
+msgid "Only show when logged into a SonicDE session"
 msgstr ""
 
 #: basictab.cpp:117
@@ -312,13 +312,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE ਮੇਨੂ ਸੰਪਾਦਕ"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE ਮੇਨੂ ਸੰਪਾਦਕ"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE ਮੇਨੂ ਸੰਪਾਦਕ"
+msgid "SonicDE menu editor"
+msgstr "SonicDE ਮੇਨੂ ਸੰਪਾਦਕ"
 
 #: main.cpp:43
 #, kde-format

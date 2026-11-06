@@ -104,8 +104,8 @@ msgstr "م&كّن تنفيذ الارتداد"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "اعرض فقط عندما تلج في جلسة بلازما"
+msgid "Only show when logged into a SonicDE session"
+msgstr "اعرض فقط عندما تلج في جلسة SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -312,13 +312,13 @@ msgstr "شريط القائمة المضغوطة"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "محرِّر القوائم لكِيدِي"
+msgid "SonicDE Menu Editor"
+msgstr "محرِّر قوائم SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "محرِّر القوائم لكِيدِي"
+msgid "SonicDE menu editor"
+msgstr "محرِّر قوائم SonicDE"
 
 #: main.cpp:43
 #, kde-format

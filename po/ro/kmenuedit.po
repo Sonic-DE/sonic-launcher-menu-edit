@@ -99,8 +99,8 @@ msgstr "Activează &notificarea pornirii"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Arată doar la autentificare într-o sesiune Plasma"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Arată doar la autentificare într-o sesiune SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -308,13 +308,13 @@ msgstr "Bară de unelte cu meniu hamburgher"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Editor de meniuri KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Editor de meniuri SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Editor de meniuri KDE"
+msgid "SonicDE menu editor"
+msgstr "Editor de meniuri SonicDE"
 
 #: main.cpp:43
 #, kde-format

@@ -103,8 +103,8 @@ msgstr "Başlatma geri bi&ldirimini etkinleştir"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Yalnızca bir Plasma oturumu açıldığında göster"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Yalnızca bir SonicDE oturumu açıldığında göster"
 
 #: basictab.cpp:117
 #, kde-format
@@ -313,13 +313,13 @@ msgstr "Hamburger Menü Araç Çubuğu"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE Menü Düzenleyicisi"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE Menü Düzenleyicisi"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE menü düzenleyicisi"
+msgid "SonicDE menu editor"
+msgstr "SonicDE menü düzenleyicisi"
 
 #: main.cpp:43
 #, kde-format

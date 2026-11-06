@@ -102,7 +102,7 @@ msgstr "&Odziv pri pokretanju"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
+msgid "Only show when logged into a SonicDE session"
 msgstr ""
 
 #: basictab.cpp:117
@@ -314,16 +314,16 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Uređivač K‑menija"
+msgid "SonicDE Menu Editor"
+msgstr "Uređivač menija SonicDE-a"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
+msgid "SonicDE menu editor"
 msgstr ""
-"Uređivač K‑menija|/|$[svojstva gen 'Uređivača K‑menija'\n"
-"           dat 'Uređivaču K‑menija'\n"
-"           aku 'Uređivač K‑menija'\n"
+"Uređivač menija SonicDE-a|/|$[svojstva gen 'Uređivača menija SonicDE-a'\n"
+"           dat 'Uređivaču menija SonicDE-a'\n"
+"           aku 'Uređivač menija SonicDE-a'\n"
 "]"
 
 #: main.cpp:43

@@ -105,8 +105,8 @@ msgstr "Gaitu a&biaraztearen informazioa"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Erakutsi bakarrik Plasma-saio batean saio-hasita dagoenean"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Erakutsi bakarrik SonicDE-saio batean saio-hasita dagoenean"
 
 #: basictab.cpp:117
 #, kde-format
@@ -314,13 +314,13 @@ msgstr "Hanburger menu tresna-barra"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDEren menu-editorea"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDEren menu-editorea"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDEren menu-editorea"
+msgid "SonicDE menu editor"
+msgstr "SonicDEren menu-editorea"
 
 #: main.cpp:43
 #, kde-format

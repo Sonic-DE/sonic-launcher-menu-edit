@@ -98,7 +98,7 @@ msgstr "Galluogi adbordd &cychwyn"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
+msgid "Only show when logged into a SonicDE session"
 msgstr ""
 
 #: basictab.cpp:117
@@ -310,13 +310,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Golygydd Dewislenni KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Golygydd Dewislenni SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Golygydd Dewislenni KDE"
+msgid "SonicDE menu editor"
+msgstr "Golygydd Dewislenni SonicDE"
 
 #: main.cpp:43
 #, kde-format

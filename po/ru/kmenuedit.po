@@ -113,8 +113,8 @@ msgstr "Включить &отклик запуска"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Показывать, только если открыт сеанс Plasma"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Показывать, только если открыт сеанс SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -322,13 +322,13 @@ msgstr "Панель инструментов «гамбургер»"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Редактор меню KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Редактор меню SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Редактор меню KDE"
+msgid "SonicDE menu editor"
+msgstr "Редактор меню SonicDE"
 
 #: main.cpp:43
 #, kde-format

@@ -97,8 +97,8 @@ msgstr "გაშვების &უკუკავშირის ჩართ
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "მხოლოდ მაშინ, როცა Plasma-ის სესიაა გაშვებული"
+msgid "Only show when logged into a SonicDE session"
+msgstr "მხოლოდ მაშინ, როცა SonicDE-ის სესიაა გაშვებული"
 
 #: basictab.cpp:117
 #, kde-format
@@ -305,13 +305,13 @@ msgstr "ჰამბურგერის მენიუს ზოლი"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE-ის მენიუს რედაქტორი"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE-ის მენიუს რედაქტორი"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE-ის მენიუს რედაქტორი"
+msgid "SonicDE menu editor"
+msgstr "SonicDE-ის მენიუს რედაქტორი"
 
 #: main.cpp:43
 #, kde-format

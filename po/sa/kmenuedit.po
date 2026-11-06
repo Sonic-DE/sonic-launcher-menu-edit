@@ -98,8 +98,8 @@ msgstr "&प्रक्षेपणप्रतिक्रिया सक्�
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "केवलं प्लाज्मा सत्रे प्रवेशं कृत्वा एव दर्शयन्तु"
+msgid "Only show when logged into a SonicDE session"
+msgstr "केवलं SonicDE सत्रे प्रवेशं कृत्वा एव दर्शयन्तु"
 
 #: basictab.cpp:117
 #, kde-format
@@ -306,13 +306,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE विकल्पसूचि सम्पादकः"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE विकल्पसूचि सम्पादकः"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE विकल्पसूचि सम्पादकः"
+msgid "SonicDE menu editor"
+msgstr "SonicDE विकल्पसूचि सम्पादकः"
 
 #: main.cpp:43
 #, kde-format

@@ -26,7 +26,7 @@ public:
         QCoreApplication::setApplicationName(QStringLiteral("kmenuedit"));
         QCoreApplication::setApplicationVersion(QStringLiteral(PROJECT_VERSION));
         QCoreApplication::setOrganizationDomain(QStringLiteral("kde.org"));
-        QApplication::setApplicationDisplayName(i18n("KDE Menu Editor"));
+        QApplication::setApplicationDisplayName(i18n("SonicDE Menu Editor"));
     }
 };
 
@@ -36,11 +36,11 @@ int main(int argc, char **argv)
     KLocalizedString::setApplicationDomain(QByteArrayLiteral("kmenuedit"));
 
     KAboutData aboutData(QStringLiteral("kmenuedit"),
-                         i18n("KDE Menu Editor"),
-                         QStringLiteral(PROJECT_VERSION),
-                         i18n("KDE menu editor"),
-                         KAboutLicense::GPL,
-                         i18n("(C) 2000-2003, Waldo Bastian, Raffaele Sandrini, Matthias Elter"));
+        i18n("SonicDE Menu Editor"),
+        QStringLiteral(PROJECT_VERSION),
+        i18n("SonicDE menu editor"),
+        KAboutLicense::GPL,
+        i18n("(C) 2000-2003, Waldo Bastian, Raffaele Sandrini, Matthias Elter"));
     aboutData.addAuthor(i18n("Waldo Bastian"), i18n("Maintainer"), QStringLiteral("bastian@kde.org"));
     aboutData.addAuthor(i18n("Raffaele Sandrini"), i18n("Previous Maintainer"), QStringLiteral("sandrini@kde.org"));
     aboutData.addAuthor(i18n("Matthias Elter"), i18n("Original Author"), QStringLiteral("elter@kde.org"));
@@ -50,7 +50,7 @@ int main(int argc, char **argv)
     KDBusService service(KDBusService::Unique);
 
     QCommandLineParser parser;
-    parser.setApplicationDescription(i18n("KDE Menu Editor"));
+    parser.setApplicationDescription(i18n("SonicDE Menu Editor"));
     parser.addPositionalArgument(
         QStringLiteral("entry"),
         i18n("Entry and/or menu to select, e.g. \"org.kde.dolphin.desktop\", \"Utilties/org.kde.kwrite.desktop\", \"Education/Mathematics\""),

@@ -100,8 +100,8 @@ msgstr "S&lå på tilbakemelding ved oppstart"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Berre vis når innlogga i Plasma-økt"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Berre vis når innlogga i SonicDE-økt"
 
 #: basictab.cpp:117
 #, kde-format
@@ -308,13 +308,13 @@ msgstr "Hamburgarmeny-verktøylinje"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE Menyredigering"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE Menyredigering"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE-menyredigering"
+msgid "SonicDE menu editor"
+msgstr "SonicDE-menyredigering"
 
 #: main.cpp:43
 #, kde-format

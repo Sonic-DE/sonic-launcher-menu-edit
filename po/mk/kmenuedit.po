@@ -100,7 +100,7 @@ msgstr "&Повратна информација за старт"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
+msgid "Only show when logged into a SonicDE session"
 msgstr ""
 
 #: basictab.cpp:117
@@ -312,13 +312,13 @@ msgstr ""
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE Уредувач на мени"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE Уредувач на мени"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE уредувач на мени"
+msgid "SonicDE menu editor"
+msgstr "SonicDE уредувач на мени"
 
 #: main.cpp:43
 #, kde-format

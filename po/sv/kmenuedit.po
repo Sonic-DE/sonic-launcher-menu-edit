@@ -99,8 +99,8 @@ msgstr "Aktivera &gensvar vid programstart"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Visa bara när inloggad med en Plasma-session"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Visa bara när inloggad med en SonicDE-session"
 
 #: basictab.cpp:117
 #, kde-format
@@ -309,13 +309,13 @@ msgstr "Hamburgarmenyverktygsrad"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE:s menyeditor"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE:s menyeditor"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE:s menyeditor"
+msgid "SonicDE menu editor"
+msgstr "SonicDE:s menyeditor"
 
 #: main.cpp:43
 #, kde-format

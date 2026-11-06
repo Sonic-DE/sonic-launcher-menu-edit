@@ -98,8 +98,8 @@ msgstr "Povo&lit odezvu při spouštění"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Zobrazit pouze pokud jste přihlášeni v sezení Plasma"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Zobrazit pouze pokud jste přihlášeni v sezení SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -307,13 +307,13 @@ msgstr "Hamburgerová nástrojová lišta"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Editor nabídky KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Editor nabídky SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Editor nabídky KDE"
+msgid "SonicDE menu editor"
+msgstr "Editor nabídky SonicDE"
 
 #: main.cpp:43
 #, kde-format

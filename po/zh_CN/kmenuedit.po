@@ -94,8 +94,8 @@ msgstr "启动时显示反馈动效(&L)"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "仅在登录到 Plasma 会话时显示"
+msgid "Only show when logged into a SonicDE session"
+msgstr "仅在登录到 SonicDE 会话时显示"
 
 #: basictab.cpp:117
 #, kde-format
@@ -302,13 +302,13 @@ msgstr "多层菜单工具栏"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE 菜单编辑器"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE 菜单编辑器"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE 菜单编辑器"
+msgid "SonicDE menu editor"
+msgstr "SonicDE 菜单编辑器"
 
 #: main.cpp:43
 #, kde-format

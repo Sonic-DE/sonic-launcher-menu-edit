@@ -103,8 +103,8 @@ msgstr "Habilita la &confirmació de llançament"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Mostra només quan entreu en una sessió de Plasma"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Mostra només quan entreu en una sessió de SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -313,13 +313,13 @@ msgstr "Barra d'eines del menú d'hamburguesa"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Editor de menús de KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Editor de menús de SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Editor de menús de KDE"
+msgid "SonicDE menu editor"
+msgstr "Editor de menús de SonicDE"
 
 #: main.cpp:43
 #, kde-format

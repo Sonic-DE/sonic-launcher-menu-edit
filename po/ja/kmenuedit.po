@@ -108,8 +108,8 @@ msgstr "起動フィードバックを有効にする(&L)"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Plamsa セッションにログインしているときのみ表示"
+msgid "Only show when logged into a SonicDE session"
+msgstr "SonicDE セッションにログインしているときのみ表示"
 
 #: basictab.cpp:117
 #, kde-format
@@ -316,13 +316,13 @@ msgstr "ハンバーガーメニューのツールバー"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE メニューエディタ"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE メニューエディタ"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE メニューエディタ"
+msgid "SonicDE menu editor"
+msgstr "SonicDE メニューエディタ"
 
 #: main.cpp:43
 #, kde-format

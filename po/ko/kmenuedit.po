@@ -96,8 +96,8 @@ msgstr "실행 피드백 사용(&L)"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Plasma 세션에 로그인했을 때에만 표시"
+msgid "Only show when logged into a SonicDE session"
+msgstr "SonicDE 세션에 로그인했을 때에만 표시"
 
 #: basictab.cpp:117
 #, kde-format
@@ -304,13 +304,13 @@ msgstr "햄버거 메뉴 도구 모음"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "KDE 메뉴 편집기"
+msgid "SonicDE Menu Editor"
+msgstr "SonicDE 메뉴 편집기"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "KDE 메뉴 편집기"
+msgid "SonicDE menu editor"
+msgstr "SonicDE 메뉴 편집기"
 
 #: main.cpp:43
 #, kde-format

@@ -98,8 +98,8 @@ msgstr "Abilita &la notifica dell'avvio"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Mostra solo quando sei connesso a una sessione Plasma"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Mostra solo quando sei connesso a una sessione SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -308,13 +308,13 @@ msgstr "Barra degli strumenti del menu hamburger"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Editor di menu KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Editor di menu SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Editor del menu di KDE"
+msgid "SonicDE menu editor"
+msgstr "Editor del menu di SonicDE"
 
 #: main.cpp:43
 #, kde-format

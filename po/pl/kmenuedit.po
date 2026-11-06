@@ -104,8 +104,8 @@ msgstr "&Powiadom o uruchomieniu"
 
 #: basictab.cpp:113
 #, kde-format
-msgid "Only show when logged into a Plasma session"
-msgstr "Pokaż tylko w środowisku Plazma"
+msgid "Only show when logged into a SonicDE session"
+msgstr "Pokaż tylko w środowisku SonicDE"
 
 #: basictab.cpp:117
 #, kde-format
@@ -312,13 +312,13 @@ msgstr "Menu hamburger"
 
 #: main.cpp:29 main.cpp:39 main.cpp:53
 #, kde-format
-msgid "KDE Menu Editor"
-msgstr "Edytor menu KDE"
+msgid "SonicDE Menu Editor"
+msgstr "Edytor menu SonicDE"
 
 #: main.cpp:41
 #, kde-format
-msgid "KDE menu editor"
-msgstr "Edytor menu KDE"
+msgid "SonicDE menu editor"
+msgstr "Edytor menu SonicDE"
 
 #: main.cpp:43
 #, kde-format

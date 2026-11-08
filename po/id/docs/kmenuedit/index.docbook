@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE book PUBLIC "-//KDE//DTD DocBook XML V4.5-Based Variant V1.1//EN"
 "dtd/kdedbx45.dtd" [
- <!ENTITY kappname "&kde; Menu Editor">
+ <!ENTITY kappname "SonicDE Menu Editor">
   <!ENTITY package "kdebase">
   <!ENTITY firefox "<application
 >Firefox</application
@@ -16,7 +16,7 @@
 <bookinfo>
 
 <title
->Buku Petunjuk Pengedit Menu &kde;</title>
+>Buku Petunjuk Pengedit Menu SonicDE</title>
 
 <authorgroup>
 <author
@@ -72,7 +72,7 @@
 <keyword
 >KDE</keyword>
 <keyword
->KDE Menu Editor</keyword>
+>SonicDE Menu Editor</keyword>
 <keyword
 >kmenuedit</keyword>
 <keyword

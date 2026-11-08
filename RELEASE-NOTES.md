@@ -5,7 +5,7 @@ The SonicDE menu editor, for adding, removing and organising the entries in your
 ## Unreleased
 
 - Now presents itself with SonicDE names and identity throughout the desktop.
-- The window title and the session option now say SonicDE Menu Editor and SonicDE instead of KDE and Plasma.
+- The window title, launcher and app store entries, handbook and session option now say SonicDE Menu Editor and SonicDE instead of KDE and Plasma.
 
 ## 6.8.0 (2026-10-20)
 

@@ -2,10 +2,11 @@
 
 The SonicDE menu editor, for adding, removing and organising the entries in your application launcher.
 
-## Unreleased
+## 6.8.2 (2026-11-10)
 
 - Now presents itself with SonicDE names and identity throughout the desktop.
 - The window title, launcher and app store entries, handbook and session option now say SonicDE Menu Editor and SonicDE instead of KDE and Plasma.
+- More of the menu editor is now translated.
 
 ## 6.8.0 (2026-10-20)
 
